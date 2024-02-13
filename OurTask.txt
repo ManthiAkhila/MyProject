@@ -1,0 +1,5 @@
+Open the test.html file and 
+add background color
+create one heading and
+create two paragraphs
+add font color to paragraph tag
